@@ -1,0 +1,52 @@
+araliya-bridal/
+│
+├── app/
+│   ├── (public)/
+│   │   ├── page.tsx
+│   │   ├── services/
+│   │   ├── gallery/
+│   │   ├── packages/
+│   │   ├── about/
+│   │   └── contact/
+│   │
+│   ├── (auth)/
+│   │   ├── sign-in/
+│   │   └── sign-up/
+│   │
+│   ├── customer/
+│   │   ├── dashboard/
+│   │   ├── bookings/
+│   │   ├── profile/
+│   │   └── settings/
+│   │
+│   ├── admin/
+│   │   ├── dashboard/
+│   │   ├── bookings/
+│   │   ├── customers/
+│   │   ├── services/
+│   │   ├── packages/
+│   │   ├── gallery/
+│   │   ├── staff/
+│   │   ├── reports/
+│   │   └── settings/
+│   │
+│   ├── api/
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+│
+├── actions/
+├── components/
+├── features/
+├── hooks/
+├── lib/
+├── prisma/
+├── public/
+├── types/
+├── utils/
+├── validations/
+├── middleware.ts
+├── package.json
+└── tsconfig.json
+
+
